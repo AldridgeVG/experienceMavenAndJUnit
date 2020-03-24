@@ -16,4 +16,5 @@ public class gcd {
         int a = ArithmeticUtils.gcd(m,n);
         System.out.println("this is their greatest common division: "+a);
     }
+
 }
